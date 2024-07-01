@@ -1,0 +1,101 @@
+Employee ID,Age,Experience (years),Education Level,Average Handling Time (AHT),Efficiency (%)
+1,25,3, Bachelor,20,85
+2,28,5, Master's ,18,90
+3,30,8, Bachelor,22,82
+4,24,2, High School ,25,75
+5,32,10, PhD ,15,95
+6,27,4, Bachelor,21,88
+7,29,6, Master's ,17,91
+8,26,3, Bachelor,19,86
+9,31,9, Bachelor,23,80
+10,23,1, High School ,28,70
+11,33,11, Master's ,16,93
+12,25,3, Bachelor,20,85
+13,28,5, Master's ,18,90
+14,30,8, Bachelor,22,82
+15,24,2, High School ,25,75
+16,32,10, PhD ,15,95
+17,27,4, Bachelor,21,88
+18,29,6, Master's ,17,91
+19,26,3, Bachelor,19,86
+20,31,9, Bachelor,23,80
+21,23,1, High School ,28,70
+22,33,11, Master's ,16,93
+23,25,3, Bachelor,20,85
+24,28,5, Master's ,18,90
+25,30,8, Bachelor,22,82
+26,24,2, High School ,25,75
+27,32,10, PhD ,15,95
+28,27,4, Bachelor,21,88
+29,29,6, Master's ,17,91
+30,26,3, Bachelor,19,86
+31,31,9, Bachelor,23,80
+32,23,1, High School ,28,70
+33,33,11, Master's ,16,93
+34,25,3, Bachelor,20,85
+35,28,5, Master's ,18,90
+36,30,8, Bachelor,22,82
+37,24,2, High School ,25,75
+38,32,10, PhD ,15,95
+39,27,4, Bachelor,21,88
+40,29,6, Master's ,17,91
+41,26,3, Bachelor,19,86
+42,31,9, Bachelor,23,80
+43,23,1, High School ,28,70
+44,33,11, Master's ,16,93
+45,25,3, Bachelor,20,85
+46,28,5, Master's ,18,90
+47,30,8, Bachelor,22,82
+48,24,2, High School ,25,75
+49,32,10, PhD ,15,95
+50,27,4, Bachelor,21,88
+51,29,6, Master's ,17,91
+52,26,3, Bachelor,19,86
+53,31,9, Bachelor,23,80
+54,23,1, High School ,28,70
+55,33,11, Master's ,16,93
+56,25,3, Bachelor,20,85
+57,28,5, Master's ,18,90
+58,30,8, Bachelor,22,82
+59,24,2, High School ,25,75
+60,32,10, PhD ,15,95
+61,27,4, Bachelor,21,88
+62,29,6, Master's ,17,91
+63,26,3, Bachelor,19,86
+64,31,9, Bachelor,23,80
+65,23,1, High School ,28,70
+66,33,11, Master's ,16,93
+67,25,3, Bachelor,20,85
+68,28,5, Master's ,18,90
+69,30,8, Bachelor,22,82
+70,24,2, High School ,25,75
+71,32,10, PhD ,15,95
+72,27,4, Bachelor,21,88
+73,29,6, Master's ,17,91
+74,26,3, Bachelor,19,86
+75,31,9, Bachelor,23,80
+76,23,1, High School ,28,70
+77,33,11, Master's ,16,93
+78,25,3, Bachelor,20,85
+79,28,5, Master's ,18,90
+80,30,8, Bachelor,22,82
+81,24,2, High School ,25,75
+82,32,10, PhD ,15,95
+83,27,4, Bachelor,21,88
+84,29,6, Master's ,17,91
+85,26,3, Bachelor,19,86
+86,31,9, Bachelor,23,80
+87,23,1, High School ,28,70
+88,33,11, Master's ,16,93
+89,25,3, Bachelor,20,85
+90,28,5, Master's ,18,90
+91,30,8, Bachelor,22,82
+92,24,2, High School ,25,75
+93,32,10, PhD ,15,95
+94,27,4, Bachelor,21,88
+95,29,6, Master's ,17,91
+96,26,3, Bachelor,19,86
+97,31,9, Bachelor,23,80
+98,23,1, High School ,28,70
+99,33,11, Master's ,16,93
+100,25,3, Bachelor,20,85

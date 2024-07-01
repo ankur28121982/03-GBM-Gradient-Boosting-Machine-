@@ -1,0 +1,21 @@
+Employee ID,Age,Experience (years),Education Level,Average Handling Time (AHT),Efficiency (%),Predicted Efficiency (%),GBM Output
+39,21,3, Bachelor,17,,85,85
+23,23,7, Bachelor,18,,85,85
+37,24,3, Bachelor,25,,75,75
+27,18,8, Bachelor,28,,85,85
+36,40,3, Bachelor,28,,93,93
+34,40,2, Bachelor,23,,93,93
+23,40,3, High School ,24,,93,93
+39,29,4, High School ,25,,75,75
+34,29,3, Master's ,16,,86,86
+29,25,1, Master's ,24,,90,90
+20,24,2, Master's ,20,,90,90
+35,21,5, PhD ,21,,85,85
+33,27,1, Bachelor,25,,88,88
+23,37,7, Bachelor,16,,93,93
+32,24,2, Bachelor,20,,85,85
+25,31,7, Bachelor,30,,80,80
+38,36,6, Bachelor,16,,93,93
+19,26,1, Bachelor,25,,86,86
+29,32,5, High School ,28,,75,75
+19,40,8, High School ,17,,82,82
